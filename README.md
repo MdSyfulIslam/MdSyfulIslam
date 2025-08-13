@@ -12,9 +12,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://x.com/smsaifu17072293/with_replies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/smsaifu17072293/with_replies" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-syful-islam-648413283/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-syful-islam-648413283/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/sorder.saiful.56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sorder.saiful.56" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/sorder.saiful.56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sorder.saiful.56" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-syful-islam-648413283/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-syful-islam-648413283/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/sorder.saiful.56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sorder.saiful.56" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sorder.saiful.56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sorder.saiful.56" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@smsaiful3146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="http://www.youtube.com/@smsaiful3146" height="30" width="40" /></a>
 </p>
 
